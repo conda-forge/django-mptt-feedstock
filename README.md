@@ -14,12 +14,15 @@ Utilities for implementing Modified Preorder Tree Traversal with your Django Mod
 Current build status
 ====================
 
-All platforms: [![Circle CI](https://circleci.com/gh/conda-forge/django-mptt-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/django-mptt-feedstock)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/django-mptt-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/django-mptt-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/django-mptt/badges/version.svg)](https://anaconda.org/conda-forge/django-mptt)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/django-mptt/badges/downloads.svg)](https://anaconda.org/conda-forge/django-mptt)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-django--mptt-green.svg)](https://anaconda.org/conda-forge/django-mptt) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/django-mptt.svg)](https://anaconda.org/conda-forge/django-mptt) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/django-mptt.svg)](https://anaconda.org/conda-forge/django-mptt) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/django-mptt.svg)](https://anaconda.org/conda-forge/django-mptt) |
 
 Installing django-mptt
 ======================
