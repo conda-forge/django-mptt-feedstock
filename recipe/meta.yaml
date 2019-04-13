@@ -1,6 +1,6 @@
 {% set name = "django-mptt" %}
-{% set version = "0.9.1" %}
-{% set sha256 = "689a04cce0981671d6061a9928c33a16b47abb0d4cd43cf7dec31ae284fdae9d" %}
+{% set version = "0.10.0" %}
+{% set sha256 = "c765c1501dd0b5c22f0ca8b948550bd294cd2db68aefa0560c6ed7fcfdf4b95e" %}
 
 package:
   name: {{ name|lower }}
