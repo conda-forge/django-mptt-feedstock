@@ -1,5 +1,5 @@
 {% set name = "django-mptt" %}
-{% set version = "0.13.2" %}
+{% set version = "0.13.3" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/django-mptt-{{ version }}.tar.gz
-  sha256: 34ee8fc9462c397bb20bca5e2eeffea8c7b09bfc2302d15e7bb5e62f01f670e8
+  sha256: 87ece195c846fb579e302abbf157d80d61d8cb2d08032cc1859c06abc27c60b8
 
 build:
   number: 0
