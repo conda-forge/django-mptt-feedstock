@@ -21,6 +21,7 @@ requirements:
     - pip
   run:
     - python >=3.9
+    - django >=3.2
     - django-js-asset
 
 test:
