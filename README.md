@@ -1,11 +1,11 @@
-About django-mptt
-=================
+About django-mptt-feedstock
+===========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/django-mptt-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/django-mptt/django-mptt
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/django-mptt-feedstock/blob/main/LICENSE.txt)
 
 Summary: Utilities for implementing Modified Preorder Tree Traversal with your Django Models and working with trees of Model instances.
 
@@ -101,7 +101,7 @@ available continuous integration services. Thanks to the awesome service provide
 [CircleCI](https://circleci.com/), [AppVeyor](https://www.appveyor.com/),
 [Drone](https://cloud.drone.io/welcome), and [TravisCI](https://travis-ci.com/)
 it is possible to build and upload installable packages to the
-[conda-forge](https://anaconda.org/conda-forge) [Anaconda-Cloud](https://anaconda.org/)
+[conda-forge](https://anaconda.org/conda-forge) [anaconda.org](https://anaconda.org/)
 channel for Linux, Windows and OSX respectively.
 
 To manage the continuous integration and simplify feedstock maintenance
@@ -151,5 +151,6 @@ Feedstock Maintainers
 
 * [@MichelML](https://github.com/MichelML/)
 * [@cshaley](https://github.com/cshaley/)
+* [@rxm7706](https://github.com/rxm7706/)
 * [@sannykr](https://github.com/sannykr/)
 
