@@ -1,5 +1,5 @@
 {% set name = "django-mptt" %}
-{% set version = "0.21.1" %}
+{% set version = "0.22.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://files.pythonhosted.org/packages/source/{{ name[0] }}/{{ name }}/django_mptt-{{ version }}.tar.gz
-  sha256: dda7e42bce6dc77bccef44c5c58263c435bf7b7272ea8534e194c355fc73c746
+  sha256: 9db42a5d1af9ae732cddf3235d6af0dabf9b8ec9ff89f21147af059d61189a02
 
 build:
   noarch: python
